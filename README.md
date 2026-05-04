@@ -109,5 +109,25 @@ AI-based conversation (ChatGPT integration)
 
  User authentication
 
+## Challenges
+
+Speech Recognition Accuracy – Difficulty understanding different accents, noise, and unclear speech
+
+PyAudio Installation Issues – Complex setup, especially on Windows systems
+
+Background Listening Stability – Managing continuous listening without crashes or high CPU usage
+
+Wake Word Detection – Ensuring reliable detection without false triggers
+
+API Integration – Handling errors, delays, and invalid responses from external services (weather, Wikipedia)
+
+Thread Management – Running alarms, reminders, and listeners simultaneously without conflicts
+
+System Compatibility – Ensuring the assistant works across different devices and environments
+
+Performance Optimization – Balancing responsiveness with system resource usage
+
+ 
+
  ## Conclusion
 The Voice Assistant simplifies everyday tasks by converting voice commands into actions. It enhances productivity, saves time, and provides a hands-free computing experience, making it a powerful beginner-to-intermediate level AI project.
