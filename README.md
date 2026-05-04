@@ -83,12 +83,19 @@ python main.py
 ## Project Structure
 
 voice-assistant/
+
 │── main.py
+
 │── assets/
+
 │   └── music/
+
 │── notes/
+
 │── reminders/
+
 │── voice_assistant.log
+
 │── README.md
 
 ## Future Improvements
